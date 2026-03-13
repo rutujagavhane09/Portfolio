@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Rutuja Gavhane",
+    "label": "Visual Storyteller & Graphic Designer | UI/UX & Web Design",
+    "email": "rutujagavhane8@gmail.com",
+    "phone": "91 8080124193",
+    "location": "Nanded, Maharashtra, India",
+    "summary": "I have fallen in love with the world of creativity, where ideas turn into purposeful and meaningful designs. What started as a childhood interest has grown into a focused journey in visual and UI/UX design. I am always eager to learn and explore new tools and techniques that enhance my creative thinking and execution. I enjoy working with form, scale, contrast, color, typography, visual hierarchy, and space to craft balanced and engaging designs. I have a strong understanding of color schemes, layouts, content presentation, and imagery selection, enabling me to create visuals that capture attention, communicate effectively, and leave a lasting impression.",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rutuja-gavhane-80b5a92a4"
+      },
+      {
+        "label": "Behance",
+        "url": "https://www.behance.net/rutujargavhane"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Quarterpillars Media LLP",
+      "role": "Junior Graphic Designer",
+      "location": "Pune, Maharashtra",
+      "dates": "06/2025 - 09/2025",
+      "bullets": [
+        "Designed engaging social media creatives including reels, story posts, carousel designs, static posts, and Facebook cover creatives.",
+        "Created visual content based on client requirements while maintaining brand consistency and design quality.",
+        "Collaborated with senior designers and executed assigned tasks with attention to detail and accuracy.",
+        "Managed multiple design requests simultaneously and consistently met tight deadlines.",
+        "Quickly adapted designs based on feedback to meet deadlines."
+      ],
+      "metrics": ["Social Media Creatives", "Brand Consistency", "Tight Deadlines"]
+    },
+    {
+      "company": "HummingBird Web Solutions",
+      "role": "Graphic Designer Consultant Intern",
+      "location": "Pune, Maharashtra",
+      "dates": "02/2025 - 06/2025",
+      "bullets": [
+        "Executed design tasks as per senior guidance and project requirements.",
+        "Created presets and image overlays using Adobe Photoshop and Lightroom.",
+        "Designed visual content using Canva while maintaining consistency and quality.",
+        "Delivered assigned work within timelines with a strong focus on accuracy.",
+        "Incorporated feedback effectively to refine and improve designs."
+      ],
+      "metrics": ["Consultant Intern", "Photoshop & Lightroom", "Canva Expert"]
+    },
+    {
+      "company": "Social Sage",
+      "role": "Social Media and Graphics Designer Intern",
+      "location": "Melbourne, Australia",
+      "dates": "09/2024 - 11/2024",
+      "bullets": [
+        "Created graphical content for multiple brands across food, lifestyle, and other domains.",
+        "Managed social media copies and captions aligned with brand tone and campaigns.",
+        "Coordinated influencer outreach by sending DMs and inviting them for on-site visits and collaborations.",
+        "Handled Facebook page management, including posts, updates, and basic admin tasks.",
+        "Gained hands-on experience in end-to-end social media management and brand communication."
+      ],
+      "metrics": ["International Internship", "Influencer Outreach", "Brand Communication"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "My Portfolio Design",
+      "url": "https://www.behance.net/gallery/206754661/My-Portfolio-Design",
+      "category": "UI/UX Design",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=1200&h=800",
+      "description": "A comprehensive showcase of my design journey, featuring a blend of editorial aesthetics and technical precision.",
+      "useCase": "Personal branding and portfolio showcase for design professionals.",
+      "logo": "Layout"
+    },
+    {
+      "title": "AI Generated Video Tutorial",
+      "url": "https://www.behance.net/gallery/245324631/AI-Generated-Video-Tutorial-Motion-Graphic",
+      "category": "Motion Graphics",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200&h=800",
+      "description": "Exploring the intersection of AI and motion design to create educational content.",
+      "useCase": "Educational content for creators looking to leverage AI in video production.",
+      "logo": "Monitor"
+    },
+    {
+      "title": "Shoes Promo Motion Graphic",
+      "url": "https://www.behance.net/gallery/245318801/Shoes-Promo-Motion-Graphic",
+      "category": "Motion Graphics",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=1200&h=800",
+      "description": "Dynamic product showcase using advanced motion techniques to highlight features and style.",
+      "useCase": "E-commerce marketing and social media advertising for footwear brands.",
+      "logo": "Zap"
+    },
+    {
+      "title": "MBS App Design",
+      "url": "https://www.behance.net/gallery/219120351/MBS-App-Design",
+      "category": "UI/UX Design",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=1200&h=800",
+      "description": "A sleek, modern mobile application focused on user-centric banking and financial management.",
+      "useCase": "Fintech solution for seamless digital banking and expense tracking.",
+      "logo": "Smartphone"
+    },
+    {
+      "title": "Podcast App Design",
+      "url": "https://www.behance.net/gallery/216689129/UIUX-Case-Study-Podcast-App-Design",
+      "category": "UI/UX Design",
+      "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=1200&h=800",
+      "description": "A deep dive into audio experience design, focusing on accessibility and seamless navigation.",
+      "useCase": "Audio streaming platform optimized for content discovery and accessibility.",
+      "logo": "Mic"
+    },
+    {
+      "title": "Smart Home App Design",
+      "url": "https://www.behance.net/gallery/206838467/Smart-Home-App-Design",
+      "category": "UI/UX Design",
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=1200&h=800",
+      "description": "Intuitive control systems for the modern home, balancing complexity with ease of use.",
+      "useCase": "IoT control interface for managing smart home devices efficiently.",
+      "logo": "Home"
+    }
+  ],
+  "workflow": [
+    {
+      "step": "01",
+      "title": "Discovery & Research",
+      "description": "Deep diving into project goals, user needs, and market trends to build a solid foundation."
+    },
+    {
+      "step": "02",
+      "title": "Strategy & Planning",
+      "description": "Defining the roadmap through user personas, user flows, and clear information architecture."
+    },
+    {
+      "step": "03",
+      "title": "Wireframing",
+      "description": "Mapping out the skeleton of the experience to focus on usability and core functionality."
+    },
+    {
+      "step": "04",
+      "title": "Visual Design",
+      "description": "Bringing the brand to life with high-fidelity UI, typography, and a cohesive color palette."
+    },
+    {
+      "step": "05",
+      "title": "Motion & Interaction",
+      "description": "Adding the 'soul' to the design with purposeful animations and seamless transitions."
+    },
+    {
+      "step": "06",
+      "title": "Testing & Iteration",
+      "description": "Refining the experience through feedback and usability testing to ensure perfection."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Design Tools",
+      "items": ["Canva", "Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop", "Adobe Lightroom", "Adobe After Effects", "Framer", "Inshot", "VN"]
+    },
+    {
+      "category": "AI Tools",
+      "items": ["ChatGPT", "Copilot", "Gemini", "Grok", "Veo3", "RunwayML", "Kling", "Pixverse", "ElevenLabs", "Sora"]
+    },
+    {
+      "category": "Expertise",
+      "items": ["UX/UI Design", "UX Research", "Graphic Design", "Web design", "Video Editing", "Motion Graphics", "3D", "Animation", "Typography", "Infographics", "User Research", "Design Thinking"]
+    },
+    {
+      "category": "Other",
+      "items": ["HTML", "CSS", "Team Leading"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ASM's Institute of Business Management and Research",
+      "degree": "Masters of Computer Application",
+      "field": "Computer Application",
+      "dates": "11/2022 - 06/2024",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "institution": "MGM's College of CS & IT",
+      "degree": "Bachelors of Computer Science",
+      "field": "Computer Science",
+      "dates": "04/2019 - 08/2022",
+      "location": "Nanded, Maharashtra"
+    }
+  ],
+  "certifications": [
+    "UX/UI Design Certificate, TestDome",
+    "Figma and other Certifications, CareerNinja"
+  ],
+  "achievements": [
+    {
+      "title": "Visual Storyteller",
+      "context": "Crafting balanced and engaging designs with a strong focus on visual hierarchy."
+    },
+    {
+      "title": "Creative Execution",
+      "context": "Eager to learn and explore new tools and techniques that enhance creative thinking."
+    },
+    {
+      "title": "Content Presentation",
+      "context": "Strong understanding of color schemes, layouts, and content presentation."
+    }
+  ],
+  "passions": [
+    "Innovative Technology: Passionate about leveraging technology to solve real-world problems.",
+    "Painting and Sketching: Enjoy painting and sketching to enhance creativity and visual expression."
+  ],
+  "languages": [
+    "Marathi (Native)",
+    "English (Proficient)",
+    "Hindi (Proficient)"
+  ]
+}

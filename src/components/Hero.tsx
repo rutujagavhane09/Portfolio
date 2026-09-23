@@ -79,7 +79,7 @@ export const Hero: React.FC = () => {
 
             <Magnetic>
               <motion.a
-                href="https://drive.google.com/uc?export=download&id=14PH7xx4rfrgoVuTzVRsq5uFBO_e4Ne3m"
+                href="https://drive.google.com/uc?export=download&id=1qS6ZKBkB60sr_6-BsBdZzy9PgrjqQQyq"
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, x: 20 }}
